@@ -5,7 +5,7 @@ export default function Cart() {
   const {
     cart,
     AddToCart,
-    DecresseQuantity,
+    DecreaseQuantity,
     currency,
     getTotal,
     deleteFromCart,
@@ -39,7 +39,7 @@ export default function Cart() {
                   {p.quantity}:الكمية
                 </span>
                 <button
-                  onClick={() => DecresseQuantity(p)}
+                  onClick={() => DecreaseQuantity(p)}
                   className="bg-red-600  text-white font-semibold w-11 h-11 text-lg rounded-full "
                 >
                   -
