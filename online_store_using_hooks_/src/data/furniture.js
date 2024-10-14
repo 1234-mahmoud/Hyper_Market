@@ -1,0 +1,98 @@
+export const furniture = [
+  {
+    id: 8_1,
+    name: "Tables Round Wood",
+    price: 1260,
+    img: "https://m.media-amazon.com/images/I/814Jl41vYXL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_2,
+    name: "Cabotene MDF Square Bed",
+    price: 3200,
+    img: "https://m.media-amazon.com/images/I/61Ne+1A44dL._AC_SL1000_.jpg",
+  },
+  {
+    id: 8_3,
+    name: "Merax Modern Linen",
+    price: 6140,
+    img: "https://m.media-amazon.com/images/I/91FBEDxuPyS._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_4,
+    name: "Metal bed 100cm",
+    price: 2900,
+    img: "https://m.media-amazon.com/images/I/71jABJM6XvL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_5,
+    name: "Piston beech wood bed",
+    price: 3340,
+    img: "https://m.media-amazon.com/images/I/61gEnAb0lyL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_6,
+    name: "Turkish Sofa Elastic Cover",
+    price: 1500,
+    img: "https://m.media-amazon.com/images/I/61mo2eWNsbL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_7,
+    name: "Beech Wood Chair ",
+    price: 660,
+    img: "https://m.media-amazon.com/images/I/51lFRsYjsJL._AC_SL1200_.jpg",
+  },
+  {
+    id: 8_8,
+    name: "Mattress Topper, Memory Foam",
+    price: 4000,
+    img: "https://m.media-amazon.com/images/I/713-UnaQMRS._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_9,
+    name: "Stylie P-7-2 Soft Stripe",
+    price: 350,
+    img: "https://m.media-amazon.com/images/I/41zVFYQ5MbL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_10,
+    name: "Chenille Muslim Prayer Rugs Islam",
+    price: 300,
+    img: "https://m.media-amazon.com/images/I/A1kbqHDCkKL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_11,
+    name: "10 Meter Ramadan Decoration",
+    price: 123,
+    img: "https://m.media-amazon.com/images/I/61VshDilq5L._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_12,
+    name: "Chanelia Blackout Curtains",
+    price: 760,
+    img: "https://m.media-amazon.com/images/I/61HnhlqF2SL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_13,
+    name: "ART MOOD CURTAINS Blackout - Steel Grommets",
+    price: 1000,
+    img: "https://m.media-amazon.com/images/I/517WZvoKPzL._AC_.jpg",
+  },
+  {
+    id: 8_14,
+    name: "Naguib Selim M.C 71 3D Printed",
+    price: 1390,
+    img: "https://m.media-amazon.com/images/I/71B13Ie4W6L._AC_SL1000_.jpg",
+  },
+  {
+    id: 8_15,
+    name: "Balcony Curtain Set",
+    price: 550,
+    img: "https://m.media-amazon.com/images/I/71ugcHJkYsL._AC_SL1500_.jpg",
+  },
+  {
+    id: 8_16,
+    name: "5 Pack Chinese Lantern,",
+    price: 345,
+    img: "https://m.media-amazon.com/images/I/61RfEGWg4LL._AC_SL1001_.jpg",
+  },
+];

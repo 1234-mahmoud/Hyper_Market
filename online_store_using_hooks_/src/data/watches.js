@@ -1,0 +1,98 @@
+export const watches = [
+  {
+    id: 6_1,
+    name: "For apple watch cover",
+    price: 50,
+    img: "https://m.media-amazon.com/images/I/611Ym+zrRFL._AC_SL1500_.jpg",
+  },
+  {
+    id: 6_2,
+    name: "TPU Clear Silicone Soft Screen Protective Cover",
+    price: 66,
+    img: "https://m.media-amazon.com/images/I/61nFyX+e+6L._AC_SL1500_.jpg",
+  },
+  {
+    id: 6_3,
+    name: "Cover, full protection",
+    price: 120,
+    img: "https://m.media-amazon.com/images/I/61pu0WxcuSS._AC_SL1200_.jpg",
+  },
+  {
+    id: 6_4,
+    name: "Casio mens grey dial",
+    price: 900,
+    img: "https://m.media-amazon.com/images/I/71UwggbRBOL._AC_SY879_.jpg",
+  },
+  {
+    id: 6_5,
+    name: "Value Smash Full Screen Bluetooth",
+    price: 1100,
+    img: "https://m.media-amazon.com/images/I/71r1R4Osl-L._AC_SL1500_.jpg",
+  },
+  {
+    id: 6_6,
+    name: "Xiaomi Redmi Band 2 Activity",
+    price: 1200,
+    img: "https://m.media-amazon.com/images/I/51tRNxJ278L._AC_SL1241_.jpg",
+  },
+  {
+    id: 6_7,
+    name: "Casio Womens Silver Dial",
+    price: 900,
+    img: "https://m.media-amazon.com/images/I/61HkvXfjpfL._AC_SY879_.jpg",
+  },
+  {
+    id: 6_8,
+    name: "SKMEI Mens Digital Sports Watch",
+    price: 800,
+    img: "https://m.media-amazon.com/images/I/61oW8iu27rL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_9,
+    name: "CASIO ANALOG BLACK DIAL",
+    price: 700,
+    img: "https://m.media-amazon.com/images/I/615Ci4pBYmL._AC_SY879_.jpg",
+  },
+  {
+    id: 6_10,
+    name: "SKMEI Mens Digital Sports",
+    price: 800,
+    img: "https://m.media-amazon.com/images/I/51oNC-cMYKL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_11,
+    name: "Fossil Watch for Men",
+    price: 600,
+    img: "https://m.media-amazon.com/images/I/713DDL98iTL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_12,
+    name: "LYMFHCH Mens Analog Sports",
+    price: 650,
+    img: "https://m.media-amazon.com/images/I/61bJBvyO6QL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_13,
+    name: "asio Mens Dial",
+    price: 890,
+    img: "https://m.media-amazon.com/images/I/61FKVerMRWL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_14,
+    name: "Mtp-1374l-1avdf casio",
+    price: 2400,
+    img: "https://m.media-amazon.com/images/I/718xrPL0m8L._AC_SY879_.jpg",
+  },
+  {
+    id: 6_15,
+    name: "SKMEI Mens Digital Sports",
+    price: 2500,
+    img: "https://m.media-amazon.com/images/I/61JyZs-W+CL._AC_SX679_.jpg",
+  },
+  {
+    id: 6_16,
+    name: "Casio digital sports ",
+    price: 1200,
+    img: "https://m.media-amazon.com/images/I/81jUR-rZH1L._AC_SY879_.jpg",
+  },
+];

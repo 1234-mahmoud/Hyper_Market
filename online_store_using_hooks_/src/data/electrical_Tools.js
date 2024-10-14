@@ -1,0 +1,98 @@
+export const electrical_tools = [
+  {
+    id:2_1,
+    name: "Bosch drill - 570 watt",
+    price: 750,
+    img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQggluSfG7xMdSlYj6j9ngP0jRe5YTcGbnuk3tSw_nZ1LUhPQvl",
+  },
+  {
+    id:2_2,
+    name: "Bosch 670 Watt Angle Grinder",
+    price: 500,
+    img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvV9JzIimbri7B-RSho2W4jYd3TduryTEEN5DVHUHPMT52PrAs",
+  },
+  {
+    id:2_3,
+    name: "Bosch Jigsaw",
+    price: 900,
+    img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkHe2qJpyRs8Hr7nRfWRSFki3nipo-FqLibazx5hfYCfUe9tid",
+  },
+  {
+    id:2_4,
+    name: "TOTAL Screwdriver",
+    price: 229,
+    img: "https://m.media-amazon.com/images/I/71RMzSdqQVL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_5,
+    name: "Drill disassemble and connect ",
+    price: 345,
+    img: "https://m.media-amazon.com/images/I/81r7niiTKhL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_6,
+    name: "6Pcs Mini Screwdriver",
+    price: 75,
+    img: "https://m.media-amazon.com/images/I/71Un6sOZMRL._AC_SL1451_.jpg",
+  },
+  {
+    id:2_7,
+    name: "Total THT1K0311 3-piece Pliers Set Model",
+    price: 220,
+    img: "https://m.media-amazon.com/images/I/71kA7022OEL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_8,
+    name: "TOTAL Combination Wrench Spanner 8 pcs",
+    price: 330,
+    img: "https://m.media-amazon.com/images/I/81h5LeuNTUL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_9,
+    name: "socket set 46 pcs totaltools",
+    price: 880,
+    img: "https://m.media-amazon.com/images/I/81gO3rOIMGL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_10,
+    name: "TOTATL TOOLS Cut Resistant Gloves",
+    price: 100,
+    img: "https://m.media-amazon.com/images/I/71hSzPvMUmL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_11,
+    name: "Bosch rapido cutting disc",
+    price: 40,
+    img: "https://m.media-amazon.com/images/I/81xendBuP6L._AC_SL1500_.jpg",
+  },
+  {
+    id:2_12,
+    name: "Auto air compressor ",
+    price: 1300,
+    img: "https://m.media-amazon.com/images/I/61fVt6EOvxS._AC_SL1000_.jpg",
+  },
+  {
+    id:2_13,
+    name: "H17 8pcs Male Gun Pistol",
+    price: 1200,
+    img: "https://m.media-amazon.com/images/I/41O4uQ-KDHL._AC_.jpg",
+  },
+  {
+    id:2_14,
+    name: "Bosch Professional Laser Measure",
+    price: 2500,
+    img: "https://m.media-amazon.com/images/I/61DBuBWAuFL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_15,
+    name: "Bosch gll3x line laser",
+    price: 1240,
+    img: "https://m.media-amazon.com/images/I/71EiqGbEFVL._AC_SL1500_.jpg",
+  },
+  {
+    id:2_16,
+    name: "Bosch professional tripod for lasers",
+    price: 1100,
+    img: "https://m.media-amazon.com/images/I/51AsAoQ2JZL._AC_SL1500_.jpg",
+  },
+];

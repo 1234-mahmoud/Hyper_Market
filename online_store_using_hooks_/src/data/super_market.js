@@ -1,0 +1,98 @@
+export const super_market = [
+  {
+    id:3_1,
+    name: "El Abd Halawet El Mouled Box",
+    price: 300,
+    img: "https://m.media-amazon.com/images/I/717V6P4-PTL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_2,
+    name: "Tajín Clásico Seasoning",
+    price: 900,
+    img: "https://m.media-amazon.com/images/I/6178fSQm9xS._AC_SL1500_.jpg",
+  },
+  {
+    id:3_3,
+    name: "Bab ElSham Curry Powder",
+    price: 5,
+    img: "https://m.media-amazon.com/images/I/91-JKxt0SXL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_4,
+    name: "Aldoha white sugar, 1 kg",
+    price: 26,
+    img: "https://m.media-amazon.com/images/I/61dMpOPnHoL._AC_SL1000_.jpg",
+  },
+  {
+    id:3_5,
+    name: "Knorr Shawerma Mix - 30 gram",
+    price: 40,
+    img: "https://m.media-amazon.com/images/I/61PYrmMzvdL._AC_SL1100_.jpg",
+  },
+  {
+    id:3_6,
+    name: "Almarai Plain Full Cream Milk",
+    price: 300,
+    img: "https://m.media-amazon.com/images/I/71Bvh0sGVWL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_7,
+    name: "Ripe Grassland Milk 220g",
+    price: 20,
+    img: "https://m.media-amazon.com/images/I/51lVGH8023L._AC_SL1500_.jpg",
+  },
+  {
+    id:3_8,
+    name: "Feba Dish Cleaner",
+    price: 90,
+    img: "https://m.media-amazon.com/images/I/71m3BayJZPL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_9,
+    name: "BabyJoy super saving Size (4) 80 Pcs",
+    price: 330,
+    img: "https://m.media-amazon.com/images/I/71ewoMNE0sL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_10,
+    name: "Molfix - Baby Diapers ",
+    price: 400,
+    img: "https://m.media-amazon.com/images/I/6113uIWMLpL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_11,
+    name: "Pampers premium extra ",
+    price: 440,
+    img: "https://m.media-amazon.com/images/I/815hIHByYWL._AC_SL1500_.jpg",
+  },
+  {
+    id:3_12,
+    name: "Raid Electric Mosquito Repellent",
+    price: 100,
+    img: "https://m.media-amazon.com/images/I/81QsPOFZk+L._AC_SL1500_.jpg",
+  },
+  {
+    id:3_13,
+    name: "Ariel Automatic Power Gel ",
+    price: 380,
+    img: "https://m.media-amazon.com/images/I/61fql0l7a1L._AC_SL1500_.jpg",
+  },
+  {
+    id:3_14,
+    name: "Ariel automatic laundry powder",
+    price: 350,
+    img: "https://m.media-amazon.com/images/I/616dC-Nn+gL._AC_SL1200_.jpg",
+  },
+  {
+    id:3_15,
+    name: "Ariel Automatic Power Gel",
+    price: 220,
+    img: "https://m.media-amazon.com/images/I/71hxbtz6x9L._AC_SL1500_.jpg",
+  },
+  {
+    id:3_16,
+    name: "Clorel liquid bleach",
+    price: 45,
+    img: "https://m.media-amazon.com/images/I/51jsD6RN8-L._AC_SL1500_.jpg",
+  },
+];

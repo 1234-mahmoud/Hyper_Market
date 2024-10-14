@@ -1,0 +1,98 @@
+export const electronics = [
+  {
+    id:1_1,
+    name: "speakers",
+    price: 10,
+    img: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT6BAVkiKL1QW6cXMtZ4WvmN6vZzF1_ShEhrqHuxLWIwaBqbKI1xKyGlNxf1OCXShdBOMMGYF6jpcegi-p0JINHscG1pwthX0LjTnru6V0lv5KA5VQUaqJ_AK_yTCmhNYC478-gesfcAw&usqp=CAc",
+  },
+  {
+    id:1_2,
+    name: "mouse",
+    price: 10,
+    img: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcQ0ZoqaMjbLmtwN-kQOQK9Q54YmP62RVCht38x7CzEEqU2oiSFCt-98AAwPGexTCsjkI4ACkyGkyiFRVtnQc94jk7YB06pmA6uTRWoSG3Czi_8E0RQ4xuvQq8H54WekG5qtYImQ&usqp=CAc",
+  },
+  {
+    id:1_3,
+    name: "keyboard",
+    price: 15,
+    img: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLNIzhTgUk5hRvvMeoVgivwfwrUmLE4WIkf0Fb9rhtAsqHkCqTreOST33SRF8x4vzoBNNrFk6Zg1NuW8kCaBvIDfDni5DlLhbB-eoSvY7p3UjXtdjfn5q8tG3xrDg16uhbO22_WPBS0g&usqp=CAc",
+  },
+  {
+    id:1_4,
+    name: "headphone",
+    price: 30,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcwZyWjO3ViRVyOibWNTfeyH-YBvv3QbBZg&usqp=CAU",
+  },
+  {
+    id:1_5,
+    name: "labtop",
+    price: 1500,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw9IvCYAwKiObmK85XnKApOosvme8GKwaJg&usqp=CAU",
+  },
+  {
+    id:1_6,
+    name: "PC",
+    price: 1700,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlaGOpcgz0TUCRobWiEW1Uoau-zq7JI6W3g&usqp=CAU",
+  },
+  {
+    id:1_7,
+    name: "mouse pad",
+    price: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47fKZrz6AqF9kwaBPDevzkObZ4kKNQF2AykXk7xhusC4Vme1BABMtv5QCdyuxveyTUFo&usqp=CAU",
+  },
+  {
+    id:1_8,
+    name: "ipad",
+    price: 700,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlekep7tgvhR7WuJtExq9pMXqrR_47P0CBA&usqp=CAU",
+  },
+  {
+    id:1_9,
+    name: "tablet",
+    price: 300,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yfJkJ3f37--YTwFA_3yJa0a5RMx2UfJVQg&usqp=CAU",
+  },
+  {
+    id:1_10,
+    name: "phone",
+    price: 500,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mND9ve-OMkHiBxbzN_5CGsfgmKb8yb5r3A&usqp=CAU",
+  },
+  {
+    id:1_11,
+    name: "smart watch",
+    price: 120,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Z7W1T0p1Pjgh7NoA0B1Dm5W8PgdyX-Cn1g&usqp=CAU",
+  },
+  {
+    id:1_12,
+    name: "smart board",
+    price: 4000,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakzWAxgV43zSLwhyUXKULNNZCyzhQY01q-w&usqp=CAU",
+  },
+  {
+    id:1_13,
+    name: "micrephone",
+    price: 50,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNdIPjv0R2ljGS-gKkZxzeRCA93vFWyeI2A&usqp=CAU",
+  },
+  {
+    id:1_14,
+    name: "playstation",
+    price: 1830,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlg9RfYG0kFerGSBJQFiy3ixwdbxQeXy6aiw&usqp=CAU",
+  },
+  {
+    id:1_15,
+    name: "LCD",
+    price: 200,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqe9SzMzBXSgRa1G1pLsyMXgs86fc-SBKJBw&usqp=CAU",
+  },
+  {
+    id:1_16,
+    name: "camera",
+    price: 1900,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqG8KEBx7hTkODsZP-TenqZZ4nDe3kImOBw&usqp=CAU",
+  },
+];

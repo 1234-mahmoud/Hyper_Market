@@ -1,0 +1,129 @@
+.header .logo .txt_logo {
+  font-family: "Alkalami", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
+.cards {
+  z-index: 130;
+  position: relative;
+  overflow: hidden;
+}
+.transparent {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  background-color: rgba(53, 109, 230, 0.1); /* Semi-transparent black layer */
+  z-index: -2;
+  clip-path: circle(50%);
+  margin-top: 105px;
+}
+
+.msg {
+  width: 500px;
+  height: 200px;
+  color: white;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: bold;
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 30%;
+  transition: 1.5s ease-in-out;
+}
+.msg.showMsg {
+  margin-left: 10px;
+}
+
+.msg.hideMsg {
+  margin-left: -360px !important;
+}
+
+
+  /* ----------------------------------------- */
+
+@media (max-width: 640px) {
+  .header {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+  .header .links {
+    display: none;
+    flex-wrap: wrap !important;
+    flex: 50% !important;
+  }
+
+  .header .logo {
+    display: flex;
+    gap: 10px;
+  }
+  .header .logo .list {
+    display: flex !important;
+  }
+  .slider {
+    width: 100% !important;
+  }
+
+  .msg {
+    width: 340px;
+  }
+}
+
+
+/* ---------------------------------------------------------------------------- */
+
+@media (min-width: 768px) {
+  .slider {
+    height: 40vh !important;
+    width: 100% !important;
+  }
+  .slider img {
+    width: 100% !important;
+    height: 40vh !important;
+  }
+  .header .logo {
+    display: flex;
+    gap: 10px;
+  }
+  .header .logo .list {
+    display: block !important;
+  }
+
+  .header .links {
+    flex-wrap: wrap !important;
+  }
+  .msg {
+    width: 350px;
+    left: 0;
+    right: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .slider {
+    height: 60vh !important;
+    width: 80%;
+    margin: auto;
+  }
+  .slider img {
+    height: 100vh !important;
+  }
+  .header .logo .list {
+    display: none !important;
+  }
+  .header .links {
+    font-size: 0.82rem !important;
+    display: flex !important;
+    gap: 1rem !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    position: relative !important;
+    top: 0 !important;
+    margin-top: 0 !important;
+    padding: 1px 55px !important;
+  }
+}

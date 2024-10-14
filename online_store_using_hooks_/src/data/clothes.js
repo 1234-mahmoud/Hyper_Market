@@ -1,0 +1,98 @@
+export const clothes = [
+  {
+    id:5_1,
+    name: "Cottonil",
+    price: 100,
+    img: "https://m.media-amazon.com/images/I/711UWHsiG-L._AC_UL480_QL65_.jpg",
+  },
+  {
+    id:5_2,
+    name: "Men pantacour pajama",
+    price: 228,
+    img: "https://m.media-amazon.com/images/I/81F8vEs6C6L._AC_SX679_.jpg",
+  },
+  {
+    id:5_3,
+    name: "CAESAR Mens Sport T-Shirt",
+    price: 300,
+    img: "https://m.media-amazon.com/images/I/51GYFZbRP0L._AC_SX679_.jpg",
+  },
+  {
+    id:5_4,
+    name: "CAESAR mens",
+    price: 409,
+    img: "https://m.media-amazon.com/images/I/51HnYTb359L._AC_SX679_.jpg",
+  },
+  {
+    id:5_5,
+    name: "CAESAR Men Hoodie",
+    price: 408,
+    img: "https://m.media-amazon.com/images/I/51XaUbKcYhL._AC_SX679_.jpg",
+  },
+  {
+    id: 5_6,
+    name: "CAESAR mens Hoodie",
+    price: 179,
+    img: "https://m.media-amazon.com/images/I/61-cfvrEXVL._AC_SY879_.jpg",
+  },
+  {
+    id:5_7,
+    name: "CAESAR Mens Mens Pajama",
+    price: 188,
+    img: "https://m.media-amazon.com/images/I/51OqJa-qISL._AC_SY741_.jpg",
+  },
+  {
+    id: 5_8,
+    name: "CAESAR Mens Hoodie",
+    price: 220,
+    img: "https://m.media-amazon.com/images/I/51iIuUlrNUL._AC_SX679_.jpg",
+  },
+  {
+    id: 5_9,
+    name: "CAESAR Mens Men",
+    price: 253,
+    img: "https://m.media-amazon.com/images/I/71RuigQsEDL._AC_SX679_.jpg",
+  },
+  {
+    id: 5_10,
+    name: "CAESAR Mens ",
+    price: 120,
+    img: "https://m.media-amazon.com/images/I/51HrKRHqinL._AC_SX679_.jpg",
+  },
+  {
+    id:5_11,
+    name: "Cottonil Ankle Socks - For Men",
+    price: 40,
+    img: "https://m.media-amazon.com/images/I/61O94Mtc5hL._AC_SX679_.jpg",
+  },
+  {
+    id: 5_12,
+    name: "ASTK mens",
+    price: 300,
+    img: "https://m.media-amazon.com/images/I/61WOUaEHk1L._AC_SY879_.jpg",
+  },
+  {
+    id: 5_13,
+    name: "ASTK Mens",
+    price: 160,
+    img: "https://m.media-amazon.com/images/I/61Nem1UqYkL._AC_SY879_.jpg",
+  },
+  {
+    id: 5_14,
+    name: "Japanese Anime",
+    price: 150,
+    img: "https://m.media-amazon.com/images/I/616jaPrI9oL._AC_UL480_FMwebp_QL65_.jpg",
+  },
+  {
+    id: 5_15,
+    name: "Mens Marines Belt -Olive",
+    price: 49,
+    img: "https://m.media-amazon.com/images/I/71V9rBY-3nL._AC_UL480_FMwebp_QL65_.jpg",
+  },
+  {
+    id: 5_16,
+    name: "Kids Gift",
+    price: 100,
+    img: "https://m.media-amazon.com/images/I/510rdSOSWhL._AC_.jpg",
+  },
+];
