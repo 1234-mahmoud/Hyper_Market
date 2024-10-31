@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/online_store_using_hooks/static/css/main.3d870522.css",
-    "main.js": "/online_store_using_hooks/static/js/main.7e70764b.js",
-    "static/media/three.jpg": "/online_store_using_hooks/static/media/three.d45dad1c148ec0c43a68.jpg",
-    "static/media/four.jpg": "/online_store_using_hooks/static/media/four.223665eba90c29f0b960.jpg",
-    "static/media/two.jpg": "/online_store_using_hooks/static/media/two.2d3b7fc34c5e5a7d0742.jpg",
-    "static/media/one.jpg": "/online_store_using_hooks/static/media/one.cb56b475007f6d3168c6.jpg",
-    "static/media/download.jpeg": "/online_store_using_hooks/static/media/download.29932bc360e94f6f710c.jpeg",
-    "index.html": "/online_store_using_hooks/index.html",
-    "main.3d870522.css.map": "/online_store_using_hooks/static/css/main.3d870522.css.map",
-    "main.7e70764b.js.map": "/online_store_using_hooks/static/js/main.7e70764b.js.map"
+    "main.css": "/Hyper_Market/static/css/main.3d870522.css",
+    "main.js": "/Hyper_Market/static/js/main.d5e453f6.js",
+    "static/media/three.jpg": "/Hyper_Market/static/media/three.d45dad1c148ec0c43a68.jpg",
+    "static/media/four.jpg": "/Hyper_Market/static/media/four.223665eba90c29f0b960.jpg",
+    "static/media/two.jpg": "/Hyper_Market/static/media/two.2d3b7fc34c5e5a7d0742.jpg",
+    "static/media/one.jpg": "/Hyper_Market/static/media/one.cb56b475007f6d3168c6.jpg",
+    "static/media/download.jpeg": "/Hyper_Market/static/media/download.29932bc360e94f6f710c.jpeg",
+    "index.html": "/Hyper_Market/index.html",
+    "main.3d870522.css.map": "/Hyper_Market/static/css/main.3d870522.css.map",
+    "main.d5e453f6.js.map": "/Hyper_Market/static/js/main.d5e453f6.js.map"
   },
   "entrypoints": [
     "static/css/main.3d870522.css",
-    "static/js/main.7e70764b.js"
+    "static/js/main.d5e453f6.js"
   ]
 }
