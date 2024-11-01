@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Hyper_Market/static/css/main.3d870522.css",
-    "main.js": "/Hyper_Market/static/js/main.d5e453f6.js",
+    "main.css": "/Hyper_Market/static/css/main.c83b58d2.css",
+    "main.js": "/Hyper_Market/static/js/main.32c0d952.js",
     "static/media/three.jpg": "/Hyper_Market/static/media/three.d45dad1c148ec0c43a68.jpg",
     "static/media/four.jpg": "/Hyper_Market/static/media/four.223665eba90c29f0b960.jpg",
     "static/media/two.jpg": "/Hyper_Market/static/media/two.2d3b7fc34c5e5a7d0742.jpg",
     "static/media/one.jpg": "/Hyper_Market/static/media/one.cb56b475007f6d3168c6.jpg",
     "static/media/download.jpeg": "/Hyper_Market/static/media/download.29932bc360e94f6f710c.jpeg",
     "index.html": "/Hyper_Market/index.html",
-    "main.3d870522.css.map": "/Hyper_Market/static/css/main.3d870522.css.map",
-    "main.d5e453f6.js.map": "/Hyper_Market/static/js/main.d5e453f6.js.map"
+    "main.c83b58d2.css.map": "/Hyper_Market/static/css/main.c83b58d2.css.map",
+    "main.32c0d952.js.map": "/Hyper_Market/static/js/main.32c0d952.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d870522.css",
-    "static/js/main.d5e453f6.js"
+    "static/css/main.c83b58d2.css",
+    "static/js/main.32c0d952.js"
   ]
 }
