@@ -23,7 +23,7 @@ export default function Header() {
   return (
     <div className="header bg-blue-500 py-4 px-8 w-full flex justify-between items-center text-white text-sm">
       <div className="flex relative">
-        <span className="absolute bottom-6 left-3 text-lg">{cart.length}</span>
+        <span className="cart_length absolute bottom-6 left-3 text-lg">{cart.length}</span>
         <NavLink to={"components/Cart"}>
           <svg
             className="h-8 w-8 text-slate-100"
@@ -131,7 +131,7 @@ export default function Header() {
           </svg>
         </NavLink>
       </div>
-      <div className="flex gap-">
+      <div className="flex">
         <select name="" id="" className="text-black rounded-sm outline-none">
           <option value="">دمياط</option>
           <option value="">القاهرة</option>
@@ -159,7 +159,7 @@ export default function Header() {
         </svg>
       </div>
       <div className="logo ml-5 ">
-        <NavLink to={"/"}>
+        <NavLink to={"/components/Store"}>
           <h1 className="txt_logo">الهايبر</h1>
         </NavLink>
         <svg

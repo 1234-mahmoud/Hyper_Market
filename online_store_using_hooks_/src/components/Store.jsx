@@ -12,7 +12,7 @@ import '../style/header.css'
 
 export default function Store() {
   return (
-    <div className=" relative z-0">
+    <div className="store relative z-0">
       <div className="slider">
         <AwesomeSlider mobileTouch={true} className="slider" >
           <img data-src={img1} alt="" />
