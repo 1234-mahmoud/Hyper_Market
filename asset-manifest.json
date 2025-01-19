@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hyper_Market/static/css/main.c83b58d2.css",
-    "main.js": "/Hyper_Market/static/js/main.36c28e43.js",
+    "main.js": "/Hyper_Market/static/js/main.c10591dc.js",
     "static/media/three.jpg": "/Hyper_Market/static/media/three.d45dad1c148ec0c43a68.jpg",
     "static/media/four.jpg": "/Hyper_Market/static/media/four.223665eba90c29f0b960.jpg",
     "static/media/two.jpg": "/Hyper_Market/static/media/two.2d3b7fc34c5e5a7d0742.jpg",
@@ -9,10 +9,10 @@
     "static/media/download.jpeg": "/Hyper_Market/static/media/download.29932bc360e94f6f710c.jpeg",
     "index.html": "/Hyper_Market/index.html",
     "main.c83b58d2.css.map": "/Hyper_Market/static/css/main.c83b58d2.css.map",
-    "main.36c28e43.js.map": "/Hyper_Market/static/js/main.36c28e43.js.map"
+    "main.c10591dc.js.map": "/Hyper_Market/static/js/main.c10591dc.js.map"
   },
   "entrypoints": [
     "static/css/main.c83b58d2.css",
-    "static/js/main.36c28e43.js"
+    "static/js/main.c10591dc.js"
   ]
 }
